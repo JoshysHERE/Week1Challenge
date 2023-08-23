@@ -14,6 +14,21 @@ I didn't find any comments on the HTML or CSS so i left some to help understand 
 
 Website Screenshot
 
-](https://github.com/JoshysHERE/Week1Challenge/issues/1#issue-1863893560)https://github.com/JoshysHERE/Week1Challenge/issues/1#issue-1863893560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
 
 
