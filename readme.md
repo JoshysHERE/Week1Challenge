@@ -14,8 +14,7 @@ I didn't find any comments on the HTML or CSS so i left some to help understand 
 
 Website Screenshot
 
-
-
+![Horiseon Website Picture](https://github.com/JoshysHERE/Week1Challenge/assets/141682993/2381f172-b8c9-4d45-991f-eafbe53df79a)
 
 
 
