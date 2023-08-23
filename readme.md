@@ -1,6 +1,4 @@
-<Horiseon-Website>
-
-I did not build this Website 
+Horiseon Website Project
 
 I was given the task to find issues in the code and comment on anything i might find while keeping the integrity of the website.
 
