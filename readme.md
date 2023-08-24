@@ -12,27 +12,10 @@ There were extra lines of code on the CSS that did not match with anything on th
 
 I didn't find any comments on the HTML or CSS so i left some to help understand what this means.
 
-## Table of Contents
-N/A
-
-## Installation
-N/A
 ## Usage
 ![horiseon project picture](https://github.com/JoshysHERE/Week1Challenge/assets/141682993/16bedd9c-53e6-4b8e-a197-35f423560b17)
 
 
-
-## Credits
-N/A
-## License
-N/A
-## Badges
-N/A
-## Features
-N/A
-## How to Contribute
-N/A
-## Tests
 
 Link to Github Pages 
 [
