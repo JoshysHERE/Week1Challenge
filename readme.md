@@ -19,10 +19,10 @@ N/A
 N/A
 ## Usage
 ![horiseon project picture](https://github.com/JoshysHERE/Week1Challenge/assets/141682993/16bedd9c-53e6-4b8e-a197-35f423560b17)
-Link## 
+Link 
 
 
-Credits
+##Credits
 N/A
 ## License
 N/A
